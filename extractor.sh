@@ -79,7 +79,7 @@ check_and_install() {
 
 # Function to display the script version
 show_version() {
-    echo "Script version: $VERSION"
+    echo "Extractor $VERSION"
     exit 0
 }
 
